@@ -1,0 +1,1 @@
+docker run --name ubuntu_container -it --rm ubuntu_image:latest
